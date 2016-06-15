@@ -1,0 +1,17 @@
+{
+    "Response": {
+        "Status": {
+            "startTime": 1455166383,
+            "apiId": 24,
+            "statusCode": 20001,
+            "statusMessage": "Checkout data api success",
+            "endTime": 1455166384
+        },
+        "Data": {
+            "tagId": 1,
+            "checkOutInterval": 200,
+            "status": 1,
+            "message": "Checkout enabled"
+        }
+    }
+}

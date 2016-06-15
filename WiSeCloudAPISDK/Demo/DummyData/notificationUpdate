@@ -1,0 +1,21 @@
+{
+    "Response": {
+        "Status": {
+            "startTime": 1455166383,
+            "apiId": 26,
+            "statusCode": 20001,
+            "statusMessage": "Notification status update api is sucees",
+            "endTime": 1455166384
+        },
+        "Data": [
+            {
+                "notificationId": 10,
+                "status": 1
+            },
+            {
+                "notificationId": 15,
+                "status": 1
+            }
+        ]
+    }
+}

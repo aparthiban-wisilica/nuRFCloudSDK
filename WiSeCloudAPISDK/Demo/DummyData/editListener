@@ -1,0 +1,22 @@
+{
+    "Response": {
+        "Status": {
+            "startTime": 1455875081,
+            "apiId": 44,
+            "statusCode": 20001,
+            "statusMessage": "Listener get api is success",
+            "endTime": 1455875082
+        },
+        "Data": [
+            {
+                "listenerId": 1,
+                "zoneId": "2",
+                "minRssi": "65",
+                "latitude": "12.6",
+                "longitude": "34.6",
+                "status": 1,
+                "message": "Listener updated successfully"
+            }
+        ]
+    }
+}

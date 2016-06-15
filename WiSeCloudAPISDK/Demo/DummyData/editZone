@@ -1,0 +1,27 @@
+{
+    "Response": {
+        "Status": {
+            "startTime": 1455787741,
+            "apiId": 39,
+            "statusCode": 20001,
+            "statusMessage": "Zone  edit api is success, check status",
+            "endTime": 1455787741
+        },
+        "Data": [
+            {
+                "zoneId": 1,
+                "zoneName": "ICU",
+                "organizationId": 2,
+                "status": 1,
+                "message": "Zone updated successfully"
+            },
+            {
+                "zoneId": 2,
+                "zoneName": "ICU1",
+                "organizationId": 2,
+                "status": 1,
+                "message": "Zone update successfully"
+            }
+        ]
+    }
+}

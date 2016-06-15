@@ -1,0 +1,20 @@
+{
+    "Response": {
+        "Status": {
+            "startTime": 1455166383,
+            "apiId": 23,
+            "statusCode": 20001,
+            "statusMessage": "Snooze settings api success",
+            "endTime": 1455166384
+        },
+        "Data": [
+            {
+                "alertType": 2,
+                "snoozeTime": 300,
+                "snoozeCount": 6,
+                "status": 1,
+                "message": "Settings updated"
+            }
+        ]
+    }
+}

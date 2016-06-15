@@ -1,0 +1,24 @@
+{
+    "Response": {
+        "Status": {
+            "startTime": 1455875081,
+            "apiId": 37,
+            "statusCode": 20001,
+            "statusMessage": "Tag get api is success",
+            "endTime": 1455875082
+        },
+        "Data": {
+            "tagCount": 1,
+            "tagDetails": [
+                {
+                    "tagId": 41,
+                    "tagMeshId": "34",
+                    "tagMajor": 2,
+                    "tagMinor": "4",
+                    "tagName": "tag1",
+                    "timestamp": "1.000000"
+                }
+            ]
+        }
+    }
+}

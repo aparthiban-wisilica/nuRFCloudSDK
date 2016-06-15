@@ -1,0 +1,11 @@
+{
+    "Response": {
+        "Status": {
+            "startTime": 1455879538,
+            "apiId": 35,
+            "statusCode": 20001,
+            "statusMessage": "Tag deleted successfully",
+            "endTime": 1455879539
+        }
+    }
+}

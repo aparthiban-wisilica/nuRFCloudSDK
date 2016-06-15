@@ -1,0 +1,26 @@
+{
+    "Response": {
+        "Status": {
+            "startTime": 1455787741,
+            "apiId": 9,
+            "statusCode": 20001,
+            "statusMessage": "sub organization add api is success, check each status",
+            "endTime": 1455787741
+        },
+        "Data": {
+            "organizationCount": 2,
+            "subOrganizationDetails": [
+                {
+                    "organizationId": 2,
+                    "organizationName": "middle-more",
+                    "timestamp": "1455787100"
+                },
+                {
+                    "organizationId": 3,
+                    "organizationName": "middle-more1",
+                    "timestamp": "1455786000"
+                }
+            ]
+        }
+    }
+}

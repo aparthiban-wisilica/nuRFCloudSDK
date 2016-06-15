@@ -1,0 +1,26 @@
+{
+    "Response": {
+        "Status": {
+            "startTime": 1455875081,
+            "apiId": 44,
+            "statusCode": 20001,
+            "statusMessage": "Listener get api is success",
+            "endTime": 1455875082
+        },
+        "Data": {
+            "listenerCount": 1,
+            "listenerDetails": [
+                {
+                    "listenerId": 41,
+                    "listenerName": "Mesh Bulb New",
+                    "zoneId": 2,
+                    "latitude": "12.34",
+                    "longitude": "42.34",
+                    "listenerMeshId": 12,
+                    "minRssi": "-42.34",
+                    "timestamp": "1.000000"
+                }
+            ]
+        }
+    }
+}

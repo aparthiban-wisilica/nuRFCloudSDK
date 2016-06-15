@@ -1,0 +1,28 @@
+{
+    "Response": {
+        "Status": {
+            "startTime": 1455787741,
+            "apiId": 39,
+            "statusCode": 20001,
+            "statusMessage": "Zone  get api is success, check status",
+            "endTime": 1455787741
+        },
+        "Data": {
+            "zoneCount": 2,
+            "subOrganizationZoneDetails": [
+                {
+                    "zoneId": 2,
+                    "zoneName": "ICU1",
+                    "organizationId": 2,
+                    "timestamp": "1455787100"
+                },
+                {
+                    "zoneId": 3,
+                    "zoneName": "ICU3",
+                    "organizationId": 2,
+                    "timestamp": "1455787099 "
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "Response": {
+        "Status": {
+            "startTime": 1455787741,
+            "apiId": 9,
+            "statusCode": 20001,
+            "statusMessage": "sub organization add api is success, check each status",
+            "endTime": 1455787741
+        },
+        "Data": [
+            {
+                "organizationId": 2,
+                "organizationName": "middlemore",
+                "status": 1,
+                "message": "Sub-organization edited successfully"
+            }
+        ]
+    }
+}

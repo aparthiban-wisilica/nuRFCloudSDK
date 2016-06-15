@@ -1,0 +1,15 @@
+{
+    "Response": {
+        "Status": {
+            "startTime": 1455166383,
+            "apiId": 25,
+            "statusCode": 20001,
+            "statusMessage": "Self assign data",
+            "endTime": 1455166384
+        },
+        "Data": {
+            "status": 3,
+            "message": "The assign api is success"
+        }
+    }
+}

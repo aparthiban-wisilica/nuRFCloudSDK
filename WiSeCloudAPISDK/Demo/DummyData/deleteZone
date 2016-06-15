@@ -1,0 +1,25 @@
+{
+    "Response": {
+        "Status": {
+            "startTime": 1455787741,
+            "apiId": 39,
+            "statusCode": 20001,
+            "statusMessage": "Zone  delete api is success, check status",
+            "endTime": 1455787741
+        },
+        "Data": [
+            {
+                "zoneId": 1,
+                "organizationId": 2,
+                "status": 1,
+                "message": "Zone deleted successfully"
+            },
+            {
+                "zoneId": 2,
+                "organizationId": 2,
+                "status": 1,
+                "message": "Zone deleted successfully"
+            }
+        ]
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "Response": {
+        "Status": {
+            "startTime": 1455787741,
+            "apiId": 39,
+            "statusCode": 20001,
+            "statusMessage": "Zone  get api is success, check status",
+            "endTime": 1455787741
+        },
+        "Data": [
+            {
+                "zoneId": 2,
+                "listenerId": 2,
+                "organizationId": 2
+            },
+            {
+                "zoneId": 2,
+                "listenerId": 2,
+                "organizationId": 2
+            }
+        ]
+    }
+}

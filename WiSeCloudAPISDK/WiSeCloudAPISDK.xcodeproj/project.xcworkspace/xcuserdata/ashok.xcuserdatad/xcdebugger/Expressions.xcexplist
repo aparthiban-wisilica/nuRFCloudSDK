@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[BeaconManager beaconMangerAPICallSuccessWithResponse:withRequestDetails:]:BeaconManager.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[WiSeMessageServices apiCallBackWithRequestDetails:WithResponseDetails:]:WiSeMessageServices.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[OrganizationManager organizationManagerServiceCallFailedWithError:WithRequestDetails:]:OrganizationManager.m">
+      </ContextState>
+      <ContextState
+         contextName = "+[WiSeMessageServicesResponseParser parseMessageFetchAPIResponse:withRequestDetails:]:WiSeMessageServicesResponseParser.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[value isMemberOfClass:[NSObject class]] ">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[AppDelegate getBaseUrl]:AppDelegate.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "tmp">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[EditVC dashboardManagerServiceCallSuccessfulWithResponse:WithRequestDetails:]:EditVC.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[WiSeOrganizationServices addOrganizationApiWithRequest:]:WiSeOrganizationServices.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[NSURL URLWithString:strURL]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "+[WiSeDeviceServicesResponseParser getDeviceDetails:]:WiSeDeviceServicesResponseParser.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "wiSeDashBoardSubItems.timeStamp">
+            </PersistentString>
+            <PersistentString
+               value = "[NSString stringWithFormat:@&quot;%f&quot;,wiSeDashBoardSubItems.timeStamp]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

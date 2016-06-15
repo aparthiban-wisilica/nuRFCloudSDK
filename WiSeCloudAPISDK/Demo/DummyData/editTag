@@ -1,0 +1,31 @@
+{
+    "Response": {
+        "Status": {
+            "startTime": 1455879538,
+            "apiId": 36,
+            "statusCode": 20001,
+            "statusMessage": "Tag edit  api is success, check each status",
+            "endTime": 1455879539
+        },
+        "Data": [
+            {
+                "tagId": 41,
+                "tagName": "tag1",
+                "tagMajor": "3",
+                "tagMinor": 6,
+                "tagMeshId": 65,
+                "status": 1,
+                "message": "tag updated successfully"
+            },
+            {
+                "tagId": 41,
+                "tagName": "tag1",
+                "tagMajor": "3",
+                "tagMinor": 6,
+                "tagMeshId": 65,
+                "status": 1,
+                "message": "tag updated successfully"
+            }
+        ]
+    }
+}

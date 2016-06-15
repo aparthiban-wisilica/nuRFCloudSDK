@@ -1,0 +1,15 @@
+//
+//  WiSeConnectCloudSDK.pch
+//  WiSeCloudAPISDK
+//
+//  Created by Elbin John on 25/12/15.
+//  Copyright © 2015 Ashok Parthiban D. All rights reserved.
+//
+
+#ifndef WiSeConnectCloudSDK_pch
+#define WiSeConnectCloudSDK_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* WiSeConnectCloudSDK_pch */
